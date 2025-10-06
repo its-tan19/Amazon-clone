@@ -4,7 +4,10 @@ This project is a front-end clone of the Amazon homepage, designed using **HTML*
 
 ## 🖥️ Live Preview
 
-> _Not hosted online currently. Open `index.html` locally in your browser to preview._
+## 🖥️ Live Preview
+
+🔗 **Live Site:** [Click here to view](https://its-tan19.github.io/Amazon-clone/)  
+
 
 ---
 
